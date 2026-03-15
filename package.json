@@ -4,7 +4,7 @@
   "description": "***** Description *****\r Introducing petgrub, FSE theme",
   "main": "index.js",
   "scripts": {
-    "build": "gulp file:pot && dir-archiver --src . --dest petgrub-1.0.0.zip --includebasedir true --exclude *.zip ./**/*.xml src node_modules .env .gitignore .vscode gulpfile.js package-lock.json package.json README.md .git yarn-error.log yarn.lock",
+    "build": "gulp file:pot && dir-archiver --src . --dest petgrub-lite-1.0.0.zip --includebasedir true --exclude *.zip ./**/*.xml src node_modules .env .gitignore .vscode gulpfile.js package-lock.json package.json README.md .git yarn-error.log yarn.lock",
     "sass": "gulp sass --quiet-deps",
     "watch:sass": "gulp sass:watch"
   },
