@@ -269,7 +269,7 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|card"}}}},"textColor":"card"} -->
-<p class="has-card-color has-text-color has-link-color"><?php esc_html_e( '©Copyright 2025 PetGrub | All rights reserved.', 'petgrub-lite' ); ?></p>
+<p class="has-card-color has-text-color has-link-color"><?php esc_html_e( '©Copyright 2026 PetGrub Lite | All rights reserved.', 'petgrub-lite' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
