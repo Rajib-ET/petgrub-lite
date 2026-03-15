@@ -1,0 +1,4 @@
+*** Petgrub Lite ***
+
+2026-03-15 - version 1.0.0
+* Initial release

@@ -1,0 +1,759 @@
+# Copyright (C) 2025 petgrub
+# This file is distributed under the same license as the petgrub package.
+msgid ""
+msgstr ""
+"Project-Id-Version: petgrub\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-11-26 10:20+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: patterns/call-to-action-2.php:20
+msgid "Your first repeat delivery order! Use code "
+msgstr ""
+
+#: patterns/call-to-action-2.php:20
+msgid "BIGSALE2025"
+msgstr ""
+
+#: patterns/call-to-action-2.php:20
+msgid "at checkout"
+msgstr ""
+
+#: patterns/call-to-action-2.php:24
+msgid "20% Off ! Your first repeat delivery order of $95"
+msgstr ""
+
+#: patterns/call-to-action-2.php:33, patterns/slider.php:25, patterns/slider.php:47, patterns/slider.php:91
+msgid "Shop Now"
+msgstr ""
+
+#: patterns/call-to-action.php:24
+msgid "(4.9) Reviews"
+msgstr ""
+
+#: patterns/call-to-action.php:30
+msgid "Win Your Order"
+msgstr ""
+
+#: patterns/call-to-action.php:34
+msgid "Share your review and automatically enter for a chance to win a full refund on your purchase!"
+msgstr ""
+
+#: patterns/call-to-action.php:40
+msgid "Review The Product"
+msgstr ""
+
+#: patterns/categories.php:13
+msgid "Deals By Pet Type"
+msgstr ""
+
+#: patterns/categories.php:24
+msgid "Dog"
+msgstr ""
+
+#: patterns/categories.php:28, patterns/categories.php:60
+msgid "(20 items)"
+msgstr ""
+
+#: patterns/categories.php:40
+msgid "Cat"
+msgstr ""
+
+#: patterns/categories.php:44
+msgid "(30 items)"
+msgstr ""
+
+#: patterns/categories.php:56
+msgid "Fish"
+msgstr ""
+
+#: patterns/categories.php:72
+msgid "Bird"
+msgstr ""
+
+#: patterns/categories.php:76
+msgid "(40 items)"
+msgstr ""
+
+#: patterns/categories.php:88
+msgid "Horse"
+msgstr ""
+
+#: patterns/categories.php:92
+msgid "(5 items)"
+msgstr ""
+
+#: patterns/categories.php:104
+msgid "Raptile"
+msgstr ""
+
+#: patterns/categories.php:108
+msgid "(15 items)"
+msgstr ""
+
+#: patterns/contact.php:17
+msgid "Store Location"
+msgstr ""
+
+#: patterns/contact.php:21
+msgid "If you wish to directly reach us or If you've got a question about any aspect of caring for your pet, our PetCare Team is here to help."
+msgstr ""
+
+#: patterns/contact.php:35, patterns/header-v2.php:27
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/contact.php:56
+msgid "Email"
+msgstr ""
+
+#: patterns/contact.php:70
+msgid "Phone"
+msgstr ""
+
+#: patterns/contact.php:84
+msgid "Address"
+msgstr ""
+
+#: patterns/error-404.php:14
+msgid "404"
+msgstr ""
+
+#: patterns/error-404.php:18
+msgid "Oops! That page can’t be found."
+msgstr ""
+
+#: patterns/error-404.php:26
+msgid "We’re really sorry but we can’t seem to find the page you were looking for."
+msgstr ""
+
+#: patterns/error-404.php:31
+msgid "Go to Homepage"
+msgstr ""
+
+#: patterns/fact-section.php:19
+msgid "10+"
+msgstr ""
+
+#: patterns/fact-section.php:23
+msgid "Years Experience"
+msgstr ""
+
+#: patterns/fact-section.php:29
+msgid "20+"
+msgstr ""
+
+#: patterns/fact-section.php:33
+msgid "Awards"
+msgstr ""
+
+#: patterns/fact-section.php:39
+msgid "18+"
+msgstr ""
+
+#: patterns/fact-section.php:43
+msgid "Pet Nutritionist"
+msgstr ""
+
+#: patterns/fact-section.php:49
+msgid "90%"
+msgstr ""
+
+#: patterns/fact-section.php:53
+msgid "Client Satisfaction"
+msgstr ""
+
+#: patterns/footer-default.php:22, patterns/image-blurb.php:20
+msgid "Fast Free Delivery"
+msgstr ""
+
+#: patterns/footer-default.php:26, patterns/image-blurb.php:24
+msgid "on memtro orders over $50"
+msgstr ""
+
+#: patterns/footer-default.php:40, patterns/image-blurb.php:38
+msgid "#1 Pet Product"
+msgstr ""
+
+#: patterns/footer-default.php:44, patterns/image-blurb.php:42
+msgid "Canstar Blue said it, not us"
+msgstr ""
+
+#: patterns/footer-default.php:58, patterns/image-blurb.php:56
+msgid "Free Vet Services"
+msgstr ""
+
+#: patterns/footer-default.php:62, patterns/image-blurb.php:60
+msgid "ask us anything (really)"
+msgstr ""
+
+#: patterns/footer-default.php:76, patterns/image-blurb.php:74
+msgid "Secure Payment"
+msgstr ""
+
+#: patterns/footer-default.php:80, patterns/image-blurb.php:78
+msgid "20% off your online order of $70+"
+msgstr ""
+
+#: patterns/footer-default.php:92, patterns/footer-v2.php:15, patterns/header-default.php:52, patterns/header-v2.php:37
+msgid "PetGrub"
+msgstr ""
+
+#: patterns/footer-default.php:115
+msgid "Our Products"
+msgstr ""
+
+#: patterns/footer-default.php:120
+msgid "Shop Dog &amp; Puppy"
+msgstr ""
+
+#: patterns/footer-default.php:124
+msgid "Shop Cat &amp; Kitten"
+msgstr ""
+
+#: patterns/footer-default.php:128
+msgid "Shop Bird"
+msgstr ""
+
+#: patterns/footer-default.php:132
+msgid "Shop Fish"
+msgstr ""
+
+#: patterns/footer-default.php:136
+msgid "Shop Raptile"
+msgstr ""
+
+#: patterns/footer-default.php:143
+msgid "Customer Services"
+msgstr ""
+
+#: patterns/footer-default.php:148
+msgid "Track Order"
+msgstr ""
+
+#: patterns/footer-default.php:152
+msgid "Returns"
+msgstr ""
+
+#: patterns/footer-default.php:156
+msgid "Shipping Info"
+msgstr ""
+
+#: patterns/footer-default.php:160
+msgid "Recalls &amp; Advisories"
+msgstr ""
+
+#: patterns/footer-default.php:164
+msgid "Pet Store Locator"
+msgstr ""
+
+#: patterns/footer-default.php:171
+msgid "Helpful Links"
+msgstr ""
+
+#: patterns/footer-default.php:176, patterns/header-v2.php:23
+msgid "About us"
+msgstr ""
+
+#: patterns/footer-default.php:180
+msgid "Contact us"
+msgstr ""
+
+#: patterns/footer-default.php:184
+msgid "Our Ingredient"
+msgstr ""
+
+#: patterns/footer-default.php:188
+msgid "Why Choose us?"
+msgstr ""
+
+#: patterns/footer-default.php:192
+msgid "Reviews"
+msgstr ""
+
+#: patterns/footer-default.php:210
+msgid "Our Social"
+msgstr ""
+
+#: patterns/footer-default.php:228
+msgid "Guarantee safe and secure checkout"
+msgstr ""
+
+#: patterns/footer-default.php:239
+msgid "Get PetGrub Mobile App"
+msgstr ""
+
+#: patterns/footer-default.php:272
+msgid "©Copyright 2025 PetGrub | All rights reserved."
+msgstr ""
+
+#: patterns/footer-default.php:279
+msgid "Support"
+msgstr ""
+
+#: patterns/footer-default.php:283
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer-default.php:287
+msgid "Terms of use"
+msgstr ""
+
+#: patterns/footer-v2.php:19
+msgid "There are many variations of passages of Lorem Ipsum available, but the majori have suffered alteration form."
+msgstr ""
+
+#: patterns/footer-v2.php:25
+msgid "Download App"
+msgstr ""
+
+#: patterns/footer-v2.php:51
+msgid "Store information"
+msgstr ""
+
+#: patterns/footer-v2.php:56
+msgid "Address Line 1, City, New Jersey, USA"
+msgstr ""
+
+#: patterns/footer-v2.php:60
+msgid "+(123) 456-7898"
+msgstr ""
+
+#: patterns/footer-v2.php:64
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/footer-v2.php:73
+msgid "Copyright © 2025 PetGrub. All rights reserved."
+msgstr ""
+
+#: patterns/header-default.php:15, patterns/header-default.php:31, patterns/sale-ticker.php:14, patterns/sale-ticker.php:30
+msgid "⚡Free Shipping On Orders Over $99"
+msgstr ""
+
+#: patterns/header-default.php:19, patterns/header-default.php:35, patterns/sale-ticker.php:18, patterns/sale-ticker.php:34
+msgid "⚡Save flat 50% on Premium Pet Food"
+msgstr ""
+
+#: patterns/header-default.php:23, patterns/header-default.php:39, patterns/sale-ticker.php:22, patterns/sale-ticker.php:38
+msgid "⚡30% Off Healthy Pet Diets"
+msgstr ""
+
+#: patterns/header-default.php:27, patterns/header-default.php:43, patterns/sale-ticker.php:26, patterns/sale-ticker.php:42
+msgid "⚡Enjoy a special 20% off on your first purchase"
+msgstr ""
+
+#: patterns/header-default.php:88
+msgid "Start typing and press Enter to search"
+msgstr ""
+
+#: patterns/header-v2.php:14
+msgid "Sale Up To 20% Off All Items - Premium Pet Food"
+msgstr ""
+
+#: patterns/header-v2.php:19
+msgid "Login"
+msgstr ""
+
+#: patterns/hero-banner-2.php:15
+msgid "About Us"
+msgstr ""
+
+#: patterns/hero-banner-2.php:21
+msgid "Our mission: Keeping animals healthy"
+msgstr ""
+
+#: patterns/hero-banner-2.php:25
+msgid "We're building a world where every pet enjoys fresher meals and a healthier life, every day  :)"
+msgstr ""
+
+#: patterns/hero-banner-2.php:29
+msgid "Lorem ipsum dolor sit amet consectetur adipiscing elit sed<br>do eiusmod tempor incididunt ut labore et dolore"
+msgstr ""
+
+#: patterns/hero-banner.php:24
+msgid "(4.9) Trusted Company"
+msgstr ""
+
+#: patterns/hero-banner.php:29
+msgid "Real Pet"
+msgstr ""
+
+#: patterns/hero-banner.php:29
+msgid "Food For Healthy Your"
+msgstr ""
+
+#: patterns/hero-banner.php:29
+msgid "Pets"
+msgstr ""
+
+#: patterns/hero-banner.php:33
+msgid "Let's get real, you don't have to be a Veterinary Nutritionist to know good food. But it's nice to have one on staff."
+msgstr ""
+
+#: patterns/hero-banner.php:38
+msgid "Shop Food Now"
+msgstr ""
+
+#: patterns/instagram-pos-2.php:32
+msgid "Follow us on Social Media"
+msgstr ""
+
+#: patterns/instagram-pos-2.php:36
+msgid "and tag with"
+msgstr ""
+
+#: patterns/instagram-pos-2.php:36
+msgid "@PetGrub"
+msgstr ""
+
+#: patterns/instagram-post.php:15
+msgid "Follow us on Instagram"
+msgstr ""
+
+#: patterns/instagram-post.php:19
+msgid "Tag @petgrub in your Instagram photos for a chance to be featured here."
+msgstr ""
+
+#: patterns/instagram-post.php:24
+msgid "Visit Our Instagram"
+msgstr ""
+
+#: patterns/latest-blog-2.php:14
+msgid "Blog Post"
+msgstr ""
+
+#: patterns/latest-blog-2.php:23
+msgid "Our Latest News & Articles"
+msgstr ""
+
+#: patterns/latest-blog-2.php:31, patterns/latest-blog.php:19
+msgid "View All Articles"
+msgstr ""
+
+#: patterns/latest-blog-2.php:56
+msgid "No Blog Post Found.."
+msgstr ""
+
+#: patterns/latest-blog.php:14
+msgid "Our Latest News &amp; Articles"
+msgstr ""
+
+#: patterns/mobile-app-banner.php:13
+msgid "The Ultimate Mobile App for Pet Food and Accessories"
+msgstr ""
+
+#: patterns/mobile-app-banner.php:17
+msgid "Download the App Now"
+msgstr ""
+
+#: patterns/offer-banner.php:22
+msgid "Saving served up"
+msgstr ""
+
+#: patterns/offer-banner.php:26
+msgid "Grab a deal on selected smart feeders"
+msgstr ""
+
+#: patterns/offer-banner.php:31
+msgid "-$40.00"
+msgstr ""
+
+#: patterns/offer-banner.php:54
+msgid "Shop for Bird Products"
+msgstr ""
+
+#: patterns/offer-banner.php:58
+msgid "Save big on these finds for your feathered friends."
+msgstr ""
+
+#: patterns/offer-banner.php:63
+msgid "-$70.00"
+msgstr ""
+
+#: patterns/petgrub-banners.php:15
+msgid "Coolest Deals"
+msgstr ""
+
+#: patterns/petgrub-banners.php:19
+msgid "& Sizzling Savings!"
+msgstr ""
+
+#: patterns/petgrub-banners.php:25
+msgid "Get the Deal"
+msgstr ""
+
+#: patterns/petgrub-banners.php:33
+msgid "IT'S A FLASH SALE"
+msgstr ""
+
+#: patterns/petgrub-banners.php:37
+msgid "Amazing offers!"
+msgstr ""
+
+#: patterns/petgrub-banners.php:43
+msgid "Get 50% OFF"
+msgstr ""
+
+#: patterns/popular-categories.php:12
+msgid "Explore popular categories"
+msgstr ""
+
+#: patterns/popular-categories.php:24
+msgid "Dog Food"
+msgstr ""
+
+#: patterns/popular-categories.php:28
+msgid "(20 Items)"
+msgstr ""
+
+#: patterns/popular-categories.php:42
+msgid "Cat Food"
+msgstr ""
+
+#: patterns/popular-categories.php:46
+msgid "(10 Items)"
+msgstr ""
+
+#: patterns/popular-categories.php:60
+msgid "Bird Food"
+msgstr ""
+
+#: patterns/popular-categories.php:64
+msgid "(7 Items)"
+msgstr ""
+
+#: patterns/popular-categories.php:78
+msgid "Fish Food"
+msgstr ""
+
+#: patterns/popular-categories.php:82
+msgid "(12 Items)"
+msgstr ""
+
+#: patterns/popular-categories.php:96
+msgid "Turtle Food"
+msgstr ""
+
+#: patterns/popular-categories.php:100
+msgid "(5 Items)"
+msgstr ""
+
+#: patterns/popular-products.php:12
+msgid "Petgrub Popular Products"
+msgstr ""
+
+#: patterns/products-grid-2.php:27
+msgid "No results found"
+msgstr ""
+
+#: patterns/products-grid-2.php:31
+msgid "You can try "
+msgstr ""
+
+#: patterns/products-grid-2.php:31
+msgid "clearing any filters"
+msgstr ""
+
+#: patterns/products-grid-2.php:31
+msgid "or head to our"
+msgstr ""
+
+#: patterns/products-grid-2.php:31
+msgid "store's home"
+msgstr ""
+
+#: patterns/sale-banner.php:17
+msgid "Sale Off"
+msgstr ""
+
+#: patterns/sale-banner.php:21
+msgid "Up to 30%"
+msgstr ""
+
+#: patterns/sale-banner.php:26
+msgid "Find the perfect food for your one-of-a-kind pet"
+msgstr ""
+
+#: patterns/sale-banner.php:31
+msgid "Grab the Deal Now"
+msgstr ""
+
+#: patterns/sidebar.php:18
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php:30
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/sidebar.php:42
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:54
+msgid "Tags"
+msgstr ""
+
+#: patterns/simple-blurb.php:20
+msgid "Free Shipping On $99"
+msgstr ""
+
+#: patterns/simple-blurb.php:32
+msgid "Easy Returns"
+msgstr ""
+
+#: patterns/simple-blurb.php:44
+msgid "Free Gifts, Coupons"
+msgstr ""
+
+#: patterns/simple-blurb.php:56
+msgid "24/7 Customer Support"
+msgstr ""
+
+#: patterns/slider.php:16
+msgid "Nutritious Bites for Happy Pets!"
+msgstr ""
+
+#: patterns/slider.php:20
+msgid "Shop premium pet food tailored to keep your furry friends healthy and full of energy."
+msgstr ""
+
+#: patterns/slider.php:38
+msgid "Feed the Love!"
+msgstr ""
+
+#: patterns/slider.php:42
+msgid "Discover wholesome meals and treats to make your pet’s tail wag with joy."
+msgstr ""
+
+#: patterns/slider.php:60
+msgid "Tasty Healthy Pet Food!"
+msgstr ""
+
+#: patterns/slider.php:64
+msgid "Explore our range of high-quality food to keep your pets thriving every day."
+msgstr ""
+
+#: patterns/slider.php:82
+msgid "Happy Pets, Happy You!"
+msgstr ""
+
+#: patterns/slider.php:86
+msgid "Choose from our curated pet foods to ensure your companion's health and happiness."
+msgstr ""
+
+#: patterns/testimonials.php:14
+msgid "Reviews and Awards"
+msgstr ""
+
+#: patterns/testimonials.php:23
+msgid "What pet parents are saying"
+msgstr ""
+
+#: patterns/testimonials.php:40
+msgid "PetGrub's dog treats are a hit with my pup, but the packaging was damaged. They sent a replacement fast, which was great. I'll shop here again."
+msgstr ""
+
+#: patterns/testimonials.php:54
+msgid "The cat toy I got from PetGrub was fun, but it broke after a week. Customer service was helpful and offered a refund. I expected better quality."
+msgstr ""
+
+#: patterns/testimonials.php:58
+msgid "David H."
+msgstr ""
+
+#: patterns/testimonials.php:68
+msgid "PetGrub's fish food is top-notch, and my tank is thriving. Fast shipping and great prices made it a win. I'm so happy and will order again soon!"
+msgstr ""
+
+#: patterns/testimonials.php:82
+msgid "I ordered a leash from PetGrub, but it was too short for my dog. The website was okay, but the return process was slow. I might try again later."
+msgstr ""
+
+#: patterns/testimonials.php:86
+msgid "Ethan C."
+msgstr ""
+
+#: patterns/testimonials.php:96
+msgid "PetGrub's rabbit hay is fresh and my bunny loves it! Quick delivery and eco-friendly packaging won me over. I\’m excited to shop here again soon!"
+msgstr ""
+
+#: patterns/testimonials.php:100
+msgid "Emma T."
+msgstr ""
+
+#: patterns/what-we-provide.php:13
+msgid "What We Provide"
+msgstr ""
+
+#: patterns/what-we-provide.php:25
+msgid "Pet Nutrition"
+msgstr ""
+
+#: patterns/what-we-provide.php:26
+msgid "Our certified pet nutritionists offer personalized dietary plans tailored to your pet's specific needs. We focus on balanced nutrition that supports health, energy, and longevity."
+msgstr ""
+
+#: patterns/what-we-provide.php:31
+msgid "Food Quality and Safety"
+msgstr ""
+
+#: patterns/what-we-provide.php:32
+msgid "We prioritize the highest standards in food quality and safety. Our rigorous testing and sourcing ensure that every meal meets strict guidelines, giving you peace of mind about your pet's diet."
+msgstr ""
+
+#: patterns/what-we-provide.php:37
+msgid "Pet Health and Wellbeing"
+msgstr ""
+
+#: patterns/what-we-provide.php:38
+msgid "Our holistic approach to pet health encompasses preventive care, wellness check-ups, and tailored health plans. We aim to enhance your pet's overall wellbeing, keeping them happy and thriving."
+msgstr ""
+
+#: patterns/what-we-provide.php:43
+msgid "Pets All Accessories"
+msgstr ""
+
+#: patterns/what-we-provide.php:44
+msgid "Explore our extensive range of pet accessories, from toys and grooming supplies to collars and beds. We provide high-quality products designed to enrich your pet's life and meet their every need."
+msgstr ""
+
+#: patterns/why-choose-us.php:20
+msgid "Why Choose Us"
+msgstr ""
+
+#: patterns/why-choose-us.php:24
+msgid "Where Every Pet Finds Their Paradise."
+msgstr ""
+
+#: patterns/why-choose-us.php:28
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: patterns/why-choose-us.php:33
+msgid "Quality Products"
+msgstr ""
+
+#: patterns/why-choose-us.php:34
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Molestie libero primis nostra vehicula penatibus consequat nisi purus class. loream ipsum dolor ament squrie aerpt aasele smlers."
+msgstr ""
+
+#: patterns/why-choose-us.php:39
+msgid "Affordable Prices"
+msgstr ""
+
+#: patterns/why-choose-us.php:40, patterns/why-choose-us.php:46
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Molestie libero primis nostra vehicula penatibus consequat nisi purus class"
+msgstr ""
+
+#: patterns/why-choose-us.php:45
+msgid "Exclusive Membership"
+msgstr ""
