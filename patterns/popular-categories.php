@@ -2,9 +2,9 @@
 /**
  * Title: Popular Category
  * Slug: petgrub-lite/popular-categories
- * Categories: petgrub
+ * Categories: petgrub-lite
  *
- * @package petgrub
+ * @package petgrub-lite
  */
 ?>
 <!-- wp:group {"metadata":{"name":"Popular Category"},"style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|x-large"}}},"layout":{"type":"constrained"}} -->

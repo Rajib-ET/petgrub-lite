@@ -2,9 +2,9 @@
 /**
  * Title: Image Blurb
  * Slug: petgrub-lite/image-blurb
- * Categories: petgrub
+ * Categories: petgrub-lite
  *
- * @package petgrub
+ * @package petgrub-lite
  */
 ?>
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"24px","bottom":"24px"}}},"backgroundColor":"muted","layout":{"type":"constrained"}} -->

@@ -2,9 +2,9 @@
 /**
  * Title: 404 Page
  * Slug: petgrub-lite/error
- * Categories: petgrub
+ * Categories: petgrub-lite
  *
- * @package petgrub
+ * @package petgrub-lite
  */
 
 ?>

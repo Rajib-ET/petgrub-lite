@@ -2,9 +2,9 @@
 /**
  * Title: Sidebar
  * Slug: petgrub-lite/sidebar
- * Categories: petgrub
+ * Categories: petgrub-lite
  *
- * @package petgrub
+ * @package petgrub-lite
  */
 
 ?>

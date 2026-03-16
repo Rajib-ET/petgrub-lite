@@ -2,9 +2,9 @@
 /**
  * Title: Simple Blurb
  * Slug: petgrub-lite/simple-blurb
- * Categories: petgrub
+ * Categories: petgrub-lite
  *
- * @package petgrub
+ * @package petgrub-lite
  */
 
 ?>

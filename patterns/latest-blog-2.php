@@ -2,9 +2,9 @@
 /**
  * Title: Latest News & Articles 2
  * Slug: petgrub-lite/latest-blog-2
- * Categories: petgrub
+ * Categories: petgrub-lite
  *
- * @package petgrub
+ * @package petgrub-lite
  */
 ?>
 <!-- wp:group {"metadata":{"name":"Blog Post"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"0"}},"color":{"gradient":"linear-gradient(180deg,rgb(238,238,238) 0%,rgb(255,255,255) 100%)"}},"layout":{"type":"constrained"}} -->

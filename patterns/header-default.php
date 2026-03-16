@@ -2,9 +2,9 @@
 /**
  * Title: Header Default
  * Slug: petgrub-lite/header-default
- * Categories: petgrub
+ * Categories: petgrub-lite
  *
- * @package petgrub
+ * @package petgrub-lite
  */
 
 ?>

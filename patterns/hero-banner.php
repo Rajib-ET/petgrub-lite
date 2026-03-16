@@ -2,9 +2,9 @@
 /**
  * Title: Hero Banner
  * Slug: petgrub-lite/hero-banner
- * Categories: petgrub
+ * Categories: petgrub-lite
  *
- * @package petgrub
+ * @package petgrub-lite
  */
 
 ?>

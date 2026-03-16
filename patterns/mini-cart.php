@@ -2,9 +2,9 @@
 /**
  * Title: Mini Cart Default
  * Slug: petgrub-lite/mini-cart-default
- * Categories: petgrub
+ * Categories: petgrub-lite
  *
- * @package petgrub
+ * @package petgrub-lite
  */
 
 ?>

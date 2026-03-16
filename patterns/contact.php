@@ -2,9 +2,9 @@
 /**
  * Title: Contact
  * Slug: petgrub-lite/contact
- * Categories: petgrub
+ * Categories: petgrub-lite
  *
- * @package petgrub
+ * @package petgrub-lite
  */
 
 ?>

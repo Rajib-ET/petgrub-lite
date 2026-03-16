@@ -2,9 +2,9 @@
 /**
  * Title: Footer Default
  * Slug: petgrub-lite/footer-default
- * Categories: petgrub
+ * Categories: petgrub-lite
  *
- * @package petgrub
+ * @package petgrub-lite
  */
 
 ?>

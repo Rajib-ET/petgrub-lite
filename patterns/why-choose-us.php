@@ -2,9 +2,9 @@
 /**
  * Title: Why Choose Us
  * Slug: petgrub-lite/why-choose-us
- * Categories: petgrub
+ * Categories: petgrub-lite
  *
- * @package petgrub
+ * @package petgrub-lite
  */
 ?>
 <!-- wp:group {"metadata":{"name":"Why Choose Us"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large"}}},"layout":{"type":"constrained"}} -->

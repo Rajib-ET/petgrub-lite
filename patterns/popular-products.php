@@ -2,9 +2,9 @@
 /**
  * Title: Popular Products
  * Slug: petgrub-lite/popular-products
- * Categories: petgrub
+ * Categories: petgrub-lite
  *
- * @package petgrub
+ * @package petgrub-lite
  */
 ?>
 <!-- wp:group {"metadata":{"name":"Best Sellers"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"}}},"backgroundColor":"background","layout":{"type":"constrained"}} -->

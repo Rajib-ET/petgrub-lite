@@ -2,9 +2,9 @@
 /**
  * Title: Fact Section
  * Slug: petgrub-lite/fact-section
- * Categories: petgrub
+ * Categories: petgrub-lite
  *
- * @package petgrub
+ * @package petgrub-lite
  */
 
 ?>
